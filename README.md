@@ -8,6 +8,9 @@ Esse script tem como base o script disponibilizado na documentação do metatrad
 https://www.mql5.com/pt/docs/integration/python_metatrader5
 </p>
 <p>
+Como o metatrader foi desenvolvido para o mercado forex, para usarmos essa nova integração no mercado nacional, é necessário algumas pequenas mudanças. Segue uma sugestão para a aquisição de dados direto do metatrader.
+</p>
+<p>
 Os primeiros resultados impresso são tuplas, eles dizem respeito a sua conexão e a sua conta, vale a pena consultar a documentação para
 entender melhor cada uma das saídas.
 
